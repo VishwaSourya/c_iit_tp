@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "Q4.C": "cpp"
+    }
+}
